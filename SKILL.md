@@ -1,7 +1,7 @@
 ---
-name: security-scan
+name: notobraddo-auditor
 description: Multi-phase security auditor for Solidity smart contracts
-invocation: /security-scan
+invocation: /notobraddo-audit
 ---
 
 ## Prerequisites

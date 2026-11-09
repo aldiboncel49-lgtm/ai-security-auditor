@@ -15,7 +15,7 @@
 {
   "projectName": "ai-auditor-test-project",
   "timestamp": "2026-11-09T02:00:00Z",
-  "auditor": "security-scan",
+  "auditor": "notobraddo-auditor",
   "summary": {
     "totalFindings": 2,
     "critical": 0,

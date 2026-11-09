@@ -15,7 +15,7 @@ Then copy `.claude/skills/security-scan/` into your project (or copy `SKILL.md` 
 In Claude Code, with the target contracts in scope:
 
 ```
-/security-scan
+/notobraddo-audit
 ```
 
 ## What it detects
